@@ -1,7 +1,7 @@
 package com.dongnao.alan.bean;
 
 /**
- * 
+ * 2222
  * @author Alan
  *
  */
