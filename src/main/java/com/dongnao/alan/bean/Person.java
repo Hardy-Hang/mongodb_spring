@@ -1,5 +1,10 @@
 package com.dongnao.alan.bean;
 
+/**
+ * 
+ * @author Alan
+ *
+ */
 public class Person {
 
 	private String id;
